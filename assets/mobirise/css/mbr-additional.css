@@ -1410,8 +1410,6 @@ a {
   top: 0;
 }
 .cid-tZ4Zht4ZnP {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
   background-color: #ffffff;
 }
 .cid-tZ4Zht4ZnP .mbr-fallback-image.disabled {
@@ -1842,7 +1840,7 @@ a {
 }
 .cid-tIQkZkFYT7 {
   padding-top: 2rem;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
   background-color: #ffffff;
 }
 .cid-tIQkZkFYT7 .mbr-fallback-image.disabled {
@@ -1876,6 +1874,45 @@ a {
   width: 1.6rem;
 }
 .cid-tIQkZkFYT7 H3 {
+  color: #8caff0;
+  text-align: center;
+}
+.cid-tZ66bPrE1s {
+  padding-top: 2rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-tZ66bPrE1s .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tZ66bPrE1s .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tZ66bPrE1s ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 2.5rem;
+}
+.cid-tZ66bPrE1s li {
+  position: relative;
+  margin-bottom: 1rem;
+}
+.cid-tZ66bPrE1s ul li::before {
+  position: absolute;
+  left: -1.6rem;
+  content: "\2022";
+  color: #8caff0;
+  font-weight: bold;
+  font-size: 2rem;
+  width: 1.6rem;
+}
+.cid-tZ66bPrE1s H3 {
   color: #8caff0;
   text-align: center;
 }
