@@ -2407,15 +2407,15 @@ a {
   color: #8caff0;
   text-align: center;
 }
-.cid-uHSANonTDs {
+.cid-v8bHL5UOEA {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #ffffff;
 }
-.cid-uHSANonTDs .mbr-fallback-image.disabled {
+.cid-v8bHL5UOEA .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uHSANonTDs .mbr-fallback-image {
+.cid-v8bHL5UOEA .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -2424,25 +2424,25 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-uHSANonTDs ul {
+.cid-v8bHL5UOEA ul {
   list-style: none;
   margin: 0;
   padding-left: 2.5rem;
 }
-.cid-uHSANonTDs li {
+.cid-v8bHL5UOEA li {
   position: relative;
   margin-bottom: 1rem;
 }
-.cid-uHSANonTDs ul li::before {
+.cid-v8bHL5UOEA ul li::before {
   position: absolute;
   left: -1.6rem;
   content: "\2022";
-  color: #8caff0;
+  color: #6592e6;
   font-weight: bold;
   font-size: 2rem;
   width: 1.6rem;
 }
-.cid-uHSANonTDs H3 {
-  color: #8caff0;
+.cid-v8bHL5UOEA H3 {
   text-align: center;
+  color: #8caff0;
 }
